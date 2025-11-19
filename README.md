@@ -1,5 +1,15 @@
 # titanic_pandas
-Jupyter notebook showcasing Basic data manipulation and analysis using Pandas on Python. The Dataset provided is a CSV file with RMS Titanic's passenger data.
+Jupyter notebook showcasing Basic data manipulation and analysis using Pandas on Python. The Dataset provided is a CSV file with RMS Titanic's passenger data, including whether each passenger survived the sinking or perished.
+
+Humanity's greatest feats have always been greeted with the people's awe, support, and celebration. Consequently, those that end in tragedy have a profound effect in the society of the day and somehow become part of lore, so that they are remembered for generations. Such is the case of the Hindenburg Zeppelin's disaster (1937), NASA Challenger spacecraft's disintegration (1986), and before them the RMS Titanic (1912). One can hardly argue against the fact that *Cultural Trauma* has an inequivocal effect upon *Collective Memory*.
+
+However, when it comes to details, people rely on popular depictions such as comics, novels, or motion pictures. Such is the case of the RMS Titanic. Unfortunately, as most historic films give notice of, *"This story is based on actual events. In certain cases incidents, characters and timelines have been changed for dramatic purposes. Certain characters may be composites, or entirely fictitious."* 
+
+James Cameron's 1997 film certainly does this, and for the sake of drama the script establishes a clear causality between passenger wealth and survival rate. But if one looks at the data they would agree with the official investigation which determined the less well-off were not prejudiced against during evacuation.
+
+https://www.youtube.com/watch?v=njKZeWnidG8
+
+
 
 
 # Background #
