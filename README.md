@@ -30,10 +30,12 @@ Humanity's greatest feats have always been greeted with the people's awe, suppor
 However, when it comes to details, people rely on popular depictions such as comics, novels, or motion pictures. Such is the case of the RMS Titanic. Unfortunately, as most historic films give notice of, *"This story is based on actual events. In certain cases incidents, characters and timelines have been changed for dramatic purposes. Certain characters may be composites, or entirely fictitious."* 
 
 
-James Cameron's 1997 film certainly does this, and for the sake of drama the script establishes a clear causality between passenger wealth and survival rate. So much so that the film portrays scenes of less well-off passengers being hindered and locked off to ease access to safety for wealthy patrons.<br>But if one looks at the data they would agree with the official investigation which determined the less well-off were not prejudiced against during evacuation. They did have a head start, however;
-- 1st class cabins were the closest to deck (A, B and C decks)
+James Cameron's 1997 film certainly does this, and for the sake of drama the script establishes a clear causality between passenger wealth and survival rate. So much so that the film portrays scenes of less well-off passengers being hindered and locked off to ease access to safety for wealthy patrons.<br>But if one closely examines the data there is no evidence against the official investigation which determined that less well-off passengers were not prejudiced against during evacuation. Wealthy passengers did have *a head start*, however, mainly due to the following reasons;
+- 1st class cabins were closest to deck (A, B and C decks)
 - 1st class passengers had more time to evacuate, as the upper floors weren't impacted by the iceberg. (only F, G and orlop decks were ruptured)
 - The Grand Staircase was wider on the upper levels.
+
+Below we can see a picture of the Titanic's deck layout;
 <br><br>
 ![Cutaway diagram showing Titanic's deck layout](https://upload.wikimedia.org/wikipedia/commons/0/0d/Olympic_%26_Titanic_cutaway_diagram.png)
 
