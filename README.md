@@ -14,14 +14,14 @@ An output CSV file is also provided.
 
 
 
-In the early 20th Century, RMS Titanic was the crown jewel of the British shipping operator White Star Line. The Titanic was the biggest ship ever built, designed to withstand almost any contingency at sea —including direct collision with another ship or an iceberg— and marketed as  "*practically unsinkable*". 
+In the early 20th Century, RMS Titanic was the crown jewel of the British shipping operator White Star Line. The Titanic was the biggest ship ever built, designed to withstand almost any contingency at sea —including a head-on collision with another ship or an iceberg— and marketed as  "*practically unsinkable*". 
 
 
 !['Untergang der Titanic', by Willy Stöwer (1912)](https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg)
 
 
 
-Paradoxically, the Titanic did hit an iceberg but in a glancing blow to the starboard (right side), scraping along the iceberg and sustaining multiple ruptures that, though small, flooded 5 compartments. The Titanic thus sank in the North Atlantic on its maiden voyage, only 3 days and a half after last departure from Queenstown (now Cobh) in Co. Cork, Ireland. 
+Paradoxically, it did hit an iceberg, but rather than head-on, the Titanic took a glancing blow to the starboard (right side), scraping along the iceberg and sustaining multiple ruptures that, though small, flooded five compartments. The Titanic's safety specifications only guaranteed vessel buoyancy with up to three flooded compartments. Consequently, the Titanic sank in the North Atlantic on its maiden voyage, only three and a half days after its last departure from Queenstown (now Cobh) in Co. Cork, Ireland. 
 
 
 Humanity's greatest feats have always been greeted with the people's awe, support, and celebration. Consequently, those that end in tragedy have a profound effect in the society of the day and somehow become part of lore, so that they are remembered for generations. Such is the case of the Hindenburg Zeppelin's disaster (1937), NASA Challenger spacecraft's disintegration (1986), and before them the RMS Titanic (1912). One can hardly argue against the fact that *Cultural Trauma* has an inequivocal effect upon *Collective Memory*.
@@ -38,7 +38,7 @@ James Cameron's 1997 film certainly does this, and for the sake of drama the scr
 ![Cutaway diagram showing Titanic's deck layout](https://upload.wikimedia.org/wikipedia/commons/0/0d/Olympic_%26_Titanic_cutaway_diagram.png)
 
 <br>
-Below is a simulation of how the Titanic passengers might have attempted evacuation as the ship progressively flooded.
+For illustrative purposes below is a simulation of how the Titanic passengers might have attempted evacuation as the ship progressively flooded;<br>
 https://www.youtube.com/watch?v=njKZeWnidG8
 
 
